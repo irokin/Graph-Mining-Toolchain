@@ -42,22 +42,30 @@ This repository serves as a hub to curate tools/algorithms/datasets in Graph-Min
 
 ### Research Projects/Groups
 - [UCSE - LINQS](https://linqs.soe.ucsc.edu/)
+  
   Lead by Prof. Lise Getoor, on Statsitical Relational Learning.
 - [Stanford - SNAP](http://snap.stanford.edu/index.html)
+  
   Lead by Prof. Jure Leskovec, on general purpose network analysis and graph mining.
 - [CMU - NELL](http://rtw.ml.cmu.edu/)
+  
   CMU Read the web project, utilizing link-prediction for completing the never-ending language learning knowledge base. 
 - [UT Dallas - StarLing](https://starling.utdallas.edu/)
+  
   Relational Functional Gradient Boosting based algorithms for statistical relational learning.
 
 ### Researchers
 - [CMU - TeamCohen](https://wwcohen.github.io/)
+  
   Proposed ProPPR, PRA, SGE and TensorLog
 - [UCL - Tim Rocktäschel](https://rockt.github.io/)
+  
   End-to-End Differentiable Proving
 - [MIT - Maximilian Nickel](https://mnick.github.io/)
+  
   Tensor Factorization
 - [Facebook - Antoine Bordes](https://research.fb.com/people/bordes-antoine/)
-
+  
+  Embedding Space
 
 
