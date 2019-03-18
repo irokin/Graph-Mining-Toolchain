@@ -43,10 +43,10 @@ This repository serves as a hub to curate tools/algorithms/datasets in Graph-Min
 ### Research Projects/Groups
 - [UCSE - LINQS](https://linqs.soe.ucsc.edu/)
   
-  Lead by Prof. Lise Getoor, on Statsitical Relational Learning.
+  Led by Prof. Lise Getoor, on Statsitical Relational Learning.
 - [Stanford - SNAP](http://snap.stanford.edu/index.html)
   
-  Lead by Prof. Jure Leskovec, on general purpose network analysis and graph mining.
+  Led by Prof. Jure Leskovec, on general purpose network analysis and graph mining.
 - [CMU - NELL](http://rtw.ml.cmu.edu/)
   
   CMU Read the web project, utilizing link-prediction for completing the never-ending language learning knowledge base. 
