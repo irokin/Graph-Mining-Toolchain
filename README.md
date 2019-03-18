@@ -12,7 +12,7 @@ This repository serves as a hub to curate tools/algorithms/datasets in Graph-Min
 - [NELL-995](https://www.dropbox.com/sh/ilvnhkrfv79nyvj/AACD6WhCHNEu_sechVEmg_Fma?dl=0)
 - [UW-CSE](https://www.dropbox.com/sh/otz10mtam2xmjn8/AADgjYG2pks0lFN_8hbwF--aa?dl=0)
 
-> Data Modelling\Graph Visualization
+> Data Modelling/Graph Visualization
 
 - [Python - Networkx](https://networkx.github.io/)
 - [Java - GraphStream](http://graphstream-project.org/)
