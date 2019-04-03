@@ -4,6 +4,15 @@ With the advance of latent feature, observable and hybird models for mining from
 
 This repository serves as a hub to curate tools/algorithms/datasets in Graph-Mining research, especially for reasoning on large-scale knowledge graph, in the hope to ease the difficulty of entering in this interesting research area.
 
+### Frameworks
+
+- [Pytorch-BigGraph](https://torchbiggraph.readthedocs.io/en/latest/)
+
+  Distributed implementations of scalable Embedding Methods(TransE, Rescal etc.).
+- [Amazon-DeepGraphLibrary](https://www.dgl.ai/)
+
+  Implementations of Graph Neural Networks.
+
 ### Tools and Algorithms
 
 > Raw Benchmark Datasets
